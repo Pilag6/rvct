@@ -15,7 +15,7 @@ This template provides a minimal setup to get React working in Vite, completely 
 2. **Navigate to the Project Directory:**
 
    ```bash
-   cd cvl
+   cd rvct
    ```
 
 3. **Remove Existing Git History:**
