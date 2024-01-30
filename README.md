@@ -4,7 +4,7 @@ This template provides a minimal setup to get React working in Vite, completely 
 
 ## Getting Started
 
-### Option 1: Clone the Repository
+### Option 1: Clone the Repository and Remove Git History
 
 1. **Clone the Repository:**
 
@@ -24,7 +24,7 @@ This template provides a minimal setup to get React working in Vite, completely 
    rm -rf .git
    ```
 
-   This command will remove the existing Git history.
+   This command will remove the existing Git history. That way, you can start fresh with your own Git repository.
 
 4. **Initialize a New Git Repository:**
 
@@ -52,7 +52,7 @@ This template provides a minimal setup to get React working in Vite, completely 
 
 ### Option 2: Use degit
 
-Alternatively, you can use degit to scaffold the template without cloning the entire repository.
+Alternatively, you can use `degit` to scaffold the template without cloning the entire repository.
 
 1. **Use degit to Fetch the Template:**
 
@@ -62,7 +62,7 @@ Alternatively, you can use degit to scaffold the template without cloning the en
 
    This command fetches the template without Git history and renames the project to `my-react-app`. You can replace `my-react-app` with your preferred project name.
 
-   If you don't have degit installed, you can install it globally using `npm install -g degit`.
+   If you don't have `degit` installed, you can install it globally using `npm install -g degit`.
 
 2. **Navigate to the Project Directory:**
 
