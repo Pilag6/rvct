@@ -92,7 +92,7 @@ Alternatively, you can use `degit` to scaffold the template without cloning the 
    pnpm run dev
    ```
 
-   This command will start the development server, and you can access your React application at `http://localhost:3000`.
+   This command will start the development server, and you can access your React application at `http://localhost:5173`.
 
 ## Project Structure
 
