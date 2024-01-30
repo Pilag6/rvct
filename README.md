@@ -103,8 +103,6 @@ rvct/
 |-- public/
 |
 |-- src/
-|   |-- assets/
-|   |-- components/
 |   |-- App.css
 |   |-- App.jsx
 |   |-- index.css
@@ -122,8 +120,6 @@ rvct/
 
 - **public/:** The directory where static assets are stored.
 - **src/:** The directory where the source code is stored.
-    - **assets/:** The directory where static assets are stored.
-    - **components/:** The directory where React components are stored.
     - **App.css:** Global styles for the application.
     - **App.jsx:** The root React component.
     - **index.css:** Global styles for the application.
