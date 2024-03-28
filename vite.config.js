@@ -17,6 +17,8 @@ export default defineConfig({
       '@services': '/src/services',
       '@config': '/src/config',
       '@api': '/src/api',
+      '@types': '/src/types',
+      '@sections': '/src/sections',
       
     },
   },
