@@ -19,6 +19,7 @@ export default defineConfig({
       '@api': '/src/api',
       '@types': '/src/types',
       '@sections': '/src/sections',
+      '@icons': '/src/icons',
       
     },
   },
